@@ -1,0 +1,2692 @@
+[
+  {
+    "name": "All Locations",
+    "children": [
+      {
+        "name": "Crateria",
+        "color": "#d83890",
+        "children": [
+          {
+            "name": "Cateria Guardians",
+            "chest_unopened_img": "images/guardian.png",
+            "chest_opened_img": "images/guardian_marked.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Crateria Kago Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1807,
+                    "y": 440
+                  }
+                ]
+              },
+              {
+                "name": "Crateria Sky Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 920,
+                    "y": 16
+                  }
+                ]
+              },
+              {
+                "name": "Crateria Power Bomb Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 371,
+                    "y": 215
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Crateria Items",
+            "chest_unopened_img": "images/major_unopened.png",
+            "chest_opened_img": "images/major_opened.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Crateria_Morph",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 816,
+                    "y": 367
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Spazer",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 80,
+                    "y": 400
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Bombs",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1744,
+                    "y": 111
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Gravity",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1840,
+                    "y": 687
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_Alpha",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 625,
+                    "y": 238
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 305,
+                    "y": 47
+                  },
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 688,
+                    "y": 16
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 82,
+                    "y": 271
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 401,
+                    "y": 303
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 432,
+                    "y": 335
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 337,
+                    "y": 495
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 624,
+                    "y": 367
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_8",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 755,
+                    "y": 433
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_9",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1616,
+                    "y": 111
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_10",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1491,
+                    "y": 208
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_11",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1424,
+                    "y": 271
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_12",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1521,
+                    "y": 444
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_13",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1400,
+                    "y": 528
+                  }
+                ]
+              },
+              {
+                "name": "Crateria_Missiles_13",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1104,
+                    "y": 559
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 72,
+                    "y": 655
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 335,
+                    "y": 176
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 848,
+                    "y": 113
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 618,
+                    "y": 143
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 814,
+                    "y": 241
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1200,
+                    "y": 720
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_SuperMissiles_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1416,
+                    "y": 529
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 112,
+                    "y": 143
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 360,
+                    "y": 247
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 528,
+                    "y": 239
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 335,
+                    "y": 399
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1200,
+                    "y": 47
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1008,
+                    "y": 239
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1293,
+                    "y": 303
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_8",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1776,
+                    "y": 463
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_9",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1392,
+                    "y": 302
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_PowerBombs_10",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 720,
+                    "y": 274
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_EnergyTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 399,
+                    "y": 118
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_EnergyTank_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1387,
+                    "y": 623
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_EnergyTank_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1361,
+                    "y": 43
+                  }
+                ]
+              },
+			  {
+                "name": "Crateria_ReserveTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "crateriamap",
+                    "x": 1135,
+                    "y": 815
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Brinstar",
+        "color": "#48a848",
+        "children": [
+          {
+            "name": "Brinstar Guardians",
+            "chest_unopened_img": "images/guardian.png",
+            "chest_opened_img": "images/guardian_marked.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Brinstar Ammo Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 870,
+                    "y": 162
+                  }
+                ]
+              },
+              {
+                "name": "Brinstar Red Tower Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1395,
+                    "y": 201
+                  }
+                ]
+              },
+              {
+                "name": "Brinstar Spike Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1518,
+                    "y": 396
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Brinstar Items",
+            "chest_unopened_img": "images/major_unopened.png",
+            "chest_opened_img": "images/major_opened.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Walljump Boots",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 47,
+                    "y": 450
+                  }
+                ]
+              },
+			  {
+                "name": "Charge Beam",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 111,
+                    "y": 291
+                  }
+                ]
+              },
+			  {
+                "name": "X-Ray",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 368,
+                    "y": 163
+                  }
+                ]
+              },
+			  {
+                "name": "Hi-Jump Boots",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 497,
+                    "y": 322
+                  }
+                ]
+              },
+			  {
+                "name": "Varia Suit",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1232,
+                    "y": 322
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 241,
+                    "y": 194
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 369,
+                    "y": 129
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 344,
+                    "y": 189
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 331,
+                    "y": 196
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 305,
+                    "y": 258
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 305,
+                    "y": 353
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 369,
+                    "y": 512
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_8",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 465,
+                    "y": 259
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_9",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 528,
+                    "y": 353
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_10",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 785,
+                    "y": 257
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_11",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 945,
+                    "y": 259
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_12",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1163,
+                    "y": 484
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_13",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1330,
+                    "y": 289
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_Missiles_14",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1426,
+                    "y": 225
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_SuperMissiles_Alpha",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 15,
+                    "y": 258
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_SuperMissiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 228,
+                    "y": 98
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_SuperMissiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 656,
+                    "y": 226
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_SuperMissiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 944,
+                    "y": 162
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_SuperMissiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 977,
+                    "y": 290
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_SuperMissiles_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1353,
+                    "y": 102
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_PowerBombs_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 42,
+                    "y": 301
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_PowerBombs_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 496,
+                    "y": 161
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_PowerBombs_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1200,
+                    "y": 193
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_EnergyTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 302,
+                    "y": 225
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_EnergyTank_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 559,
+                    "y": 385
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_EnergyTank_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 1259,
+                    "y": 296
+                  }
+                ]
+              },
+			  {
+                "name": "Brinstar_ReserveTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 975,
+                    "y": 449
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Maridia",
+        "color": "#409078",
+        "children": [
+          {
+            "name": "Maridia Guardians",
+            "chest_unopened_img": "images/guardian.png",
+            "chest_opened_img": "images/guardian_marked.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Maridia Gate Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "maridiamap",
+                    "x": 537,
+                    "y": 307
+                  }
+                ]
+              },
+              {
+                "name": "Maridia Ridley Tube Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "maridiamap",
+                    "x": 206,
+                    "y": 634
+                  }
+                ]
+              },
+              {
+                "name": "Maridia Pipe Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "maridiamap",
+                    "x": 1560,
+                    "y": 755
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Maridia Items",
+            "chest_unopened_img": "images/major_unopened.png",
+            "chest_opened_img": "images/major_opened.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Space Jump",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "maridiamap",
+                    "x": 208,
+                    "y": 276
+                  }
+                ]
+              },
+			  {
+                "name": "Beam Combo",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "maridiamap",
+                    "x": 1523,
+                    "y": 471
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "brinstarmap",
+                    "x": 849,
+                    "y": 96
+                  },
+				  {
+                    "map": "maridiamap",
+                    "x": 465,
+                    "y": 818
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 241,
+                    "y": 148
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 280,
+                    "y": 207
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 267,
+                    "y": 214
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 144,
+                    "y": 339
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 177,
+                    "y": 531
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 334,
+                    "y": 563
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_8",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 651,
+                    "y": 204
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_9",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 625,
+                    "y": 435
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_10",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 784,
+                    "y": 692
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_11",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1231,
+                    "y": 661
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_12",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1649,
+                    "y": 723
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_13",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1514,
+                    "y": 791
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_14",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1777,
+                    "y": 467
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_15",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1905,
+                    "y": 598
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_16",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1681,
+                    "y": 683
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_17",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1745,
+                    "y": 691
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_18",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1681,
+                    "y": 623
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_SuperMissiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 880,
+                    "y": 725
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_SuperMissiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1296,
+                    "y": 693
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_SuperMissiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1456,
+                    "y": 914
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_Missiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1584,
+                    "y": 820
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_PowerBombs_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 368,
+                    "y": 211
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_PowerBombs_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 7,
+                    "y": 211
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_PowerBombs_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 464,
+                    "y": 343
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_PowerBombs_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 528,
+                    "y": 688
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_EnergyTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 15,
+                    "y": 339
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_EnergyTank_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 271,
+                    "y": 659
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_EnergyTank_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 463,
+                    "y": 243
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_EnergyTank_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 1518,
+                    "y": 845
+                  }
+                ]
+              },
+			  {
+                "name": "Maridia_ReserveTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+				  {
+                    "map": "maridiamap",
+                    "x": 496,
+                    "y": 627
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Norfair",
+        "color": "#b81818",
+        "children": [
+          {
+            "name": "Norfair Guardians",
+            "chest_unopened_img": "images/guardian.png",
+            "chest_opened_img": "images/guardian_marked.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "West Norfair Lava Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 89,
+                    "y": 536
+                  }
+                ]
+              },
+              {
+                "name": "Lower Norfair Lava Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1295,
+                    "y": 369
+                  }
+                ]
+              },
+              {
+                "name": "East Norfair Wave Guardian",
+                "sections": [
+                  {
+                    "name": "Guardian",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1535,
+                    "y": 623
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Norfair Items",
+            "chest_unopened_img": "images/major_unopened.png",
+            "chest_opened_img": "images/major_opened.png",
+            "always_allow_chest_manipulation": true,
+            "children": [
+              {
+                "name": "Wave Beam",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 442,
+                    "y": 81
+                  }
+                ]
+              },
+			  {
+                "name": "Ice Beam",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1145,
+                    "y": 81
+                  }
+                ]
+              },
+			  {
+                "name": "Speed Booster",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1145,
+                    "y": 657
+                  }
+                ]
+              },
+			  {
+                "name": "Grapple",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1306,
+                    "y": 786
+                  }
+                ]
+              },
+			  {
+                "name": "Plasma Beam",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1401,
+                    "y": 528
+                  }
+                ]
+              },
+			  {
+                "name": "Screw Attack",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1562,
+                    "y": 370
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 91,
+                    "y": 176
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 187,
+                    "y": 337
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 123,
+                    "y": 432
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 379,
+                    "y": 688
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 571,
+                    "y": 304
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 571,
+                    "y": 496
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 603,
+                    "y": 721
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_8",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 794,
+                    "y": 336
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_9",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1114,
+                    "y": 178
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_10",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1338,
+                    "y": 462
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_11",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1435,
+                    "y": 80
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_12",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1499,
+                    "y": 80
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_13",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1499,
+                    "y": 176
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_14",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1531,
+                    "y": 560
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_15",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1435,
+                    "y": 592
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_16",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1434,
+                    "y": 688
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_17",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1627,
+                    "y": 16
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_Missiles_18",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1882,
+                    "y": 815
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_SuperMissiles_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 120,
+                    "y": 625
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_SuperMissiles_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 314,
+                    "y": 274
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_SuperMissiles_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 762,
+                    "y": 753
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_SuperMissiles_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1818,
+                    "y": 593
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_Alpha",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 58,
+                    "y": 721
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 346,
+                    "y": 368
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 570,
+                    "y": 848
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 538,
+                    "y": 400
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 698,
+                    "y": 240
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_5",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 794,
+                    "y": 464
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_6",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1082,
+                    "y": 410
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_7",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1146,
+                    "y": 176
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_8",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1690,
+                    "y": 208
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_9",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1571,
+                    "y": 633
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_10",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1690,
+                    "y": 208
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_PowerBombs_11",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1786,
+                    "y": 880
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_EnergyTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 217,
+                    "y": 816
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_EnergyTank_2",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 728,
+                    "y": 208
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_EnergyTank_3",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1559,
+                    "y": 912
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_EnergyTank_4",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 1625,
+                    "y": 272
+                  }
+                ]
+              },
+			  {
+                "name": "Norfair_ReserveTank_1",
+                "sections": [
+                  {
+                    "name": "Item",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                  {
+                    "map": "norfairmap",
+                    "x": 825,
+                    "y": 624
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

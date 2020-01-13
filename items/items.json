@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Charge Beam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/charge.png",
+    "codes": "charge"
+  },
+  {
+    "name": "Wave Beam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/wave.png",
+    "codes": "wave"
+  },
+  {
+    "name": "Ice Beam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/ice.png",
+    "codes": "ice"
+  },
+  {
+    "name": "Plasma Beam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/plasma.png",
+    "codes": "plasma"
+  },
+  {
+    "name": "Spazer Beam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/spazer.png",
+    "codes": "spazer"
+  },
+  {
+    "name": "Beam Combo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/beamcombo.png",
+    "codes": "beamcombo"
+  },
+  {
+    "name": "Varia Suit",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/varia.png",
+    "codes": "varia"
+  },
+  {
+    "name": "Gravity Suit",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/gravity.png",
+    "codes": "gravity"
+  },
+  {
+    "name": "Morph Ball",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/morph.png",
+    "codes": "morph"
+  },
+  {
+    "name": "Bomb",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/bomb.png",
+    "codes": "bomb"
+  },
+  {
+    "name": "Spring Ball",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/springball.png",
+    "codes": "spring"
+  },
+  {
+    "name": "High Jump",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/hijump.png",
+    "codes": "hijump"
+  },
+  {
+    "name": "Space Jump",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/space.png",
+    "codes": "space"
+  },
+  {
+    "name": "Speed Booster",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/speed.png",
+    "codes": "speed"
+  },
+  {
+    "name": "Grapple",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/grapple.png",
+    "codes": "grapple"
+  },
+  {
+    "name": "Xray",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/xray.png",
+    "codes": "xray"
+  },
+  {
+    "name": "Screw Attack",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/items/screw.png",
+    "codes": "screw"
+  },
+  {
+    "name": "Etanks",
+    "type": "consumable",
+    "img": "images/items/etank.png",
+    "max_quantity": 14,
+    "codes": "etank,alltanks"
+  },
+  {
+    "name": "Reserve Tanks",
+    "type": "consumable",
+    "img": "images/items/reservetank.png",
+    "max_quantity": 4,
+    "codes": "reservetank,alltanks"
+  },
+  {
+    "name": "Missile Capacity",
+    "type": "consumable",
+    "img": "images/items/missile.png",
+    "max_quantity": 255,
+    "increment": 5,
+    "codes": "missile"
+  },
+  {
+    "name": "Super Missile Capacity",
+    "type": "consumable",
+    "img": "images/items/super.png",
+    "max_quantity": 100,
+    "increment": 5,
+    "codes": "supermissile,super"
+  },
+  {
+    "name": "Power Bomb Capacity",
+    "type": "consumable",
+    "img": "images/items/powerbomb.png",
+    "max_quantity": 100,
+    "increment": 5,
+    "codes": "powerbomb,pb"
+  },
+  {
+    "name": "Ridley",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/Boss1.png"
+      },
+      {
+        "img": "images/bosses/Boss1.png",
+        "img_mods": "@disabled",
+        "codes": "ridley,g4"
+      }
+    ]
+  },
+  {
+    "name": "Kraid",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/Boss2.png"
+      },
+      {
+        "img": "images/bosses/Boss2.png",
+        "img_mods": "@disabled",
+        "codes": "kraid,g4"
+      }
+    ]
+  },
+  {
+    "name": "Phantoon",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/Boss3.png"
+      },
+      {
+        "img": "images/bosses/Boss3.png",
+        "img_mods": "@disabled",
+        "codes": "phantoon,g4"
+      }
+    ]
+  },
+  {
+    "name": "Draygon",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/Boss4.png"
+      },
+      {
+        "img": "images/bosses/Boss4.png",
+        "img_mods": "@disabled",
+        "codes": "draygon,g4"
+      }
+    ]
+  },
+  {
+    "name": "Bomb Torizo",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/bombtorizo.png"
+      },
+      {
+        "img": "images/bosses/bombtorizo.png",
+        "img_mods": "@disabled",
+        "codes": "bombtorizo,g4"
+      }
+    ]
+  },
+  {
+    "name": "Spore Spawn",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/sporespawn.png"
+      },
+      {
+        "img": "images/bosses/sporespawn.png",
+        "img_mods": "@disabled",
+        "codes": "sporespawn,g4"
+      }
+    ]
+  },
+  {
+    "name": "Crocomire",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/crocomire.png"
+      },
+      {
+        "img": "images/bosses/crocomire.png",
+        "img_mods": "@disabled",
+        "codes": "crocomire,g4"
+      }
+    ]
+  },
+  {
+    "name": "Botwoon",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/botwoon.png"
+      },
+      {
+        "img": "images/bosses/botwoon.png",
+        "img_mods": "@disabled",
+        "codes": "botwoon,g4"
+      }
+    ]
+  },
+  {
+    "name": "Golden Torizo",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "img": "images/bosses/goldentorizo.png"
+      },
+      {
+        "img": "images/bosses/goldentorizo.png",
+        "img_mods": "@disabled",
+        "codes": "goldentorizo,g4"
+      }
+    ]
+  }
+]
