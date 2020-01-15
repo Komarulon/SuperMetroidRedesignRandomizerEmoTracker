@@ -591,29 +591,13 @@
                 "map_locations": [
                   {
                     "map": "crateriamap",
-                    "x": 1293,
-                    "y": 303
-                  }
-                ]
-              },
-			  {
-                "name": "Crateria_PowerBombs_8",
-                "sections": [
-                  {
-                    "name": "Item",
-                    "item_count": 1
-                  }
-                ],
-                "map_locations": [
-                  {
-                    "map": "crateriamap",
                     "x": 1776,
                     "y": 463
                   }
                 ]
               },
 			  {
-                "name": "Crateria_PowerBombs_9",
+                "name": "Crateria_PowerBombs_8",
                 "sections": [
                   {
                     "name": "Item",
@@ -629,7 +613,7 @@
                 ]
               },
 			  {
-                "name": "Crateria_PowerBombs_10",
+                "name": "Crateria_PowerBombs_9",
                 "sections": [
                   {
                     "name": "Item",
@@ -1648,29 +1632,13 @@
                 "map_locations": [
 				  {
                     "map": "maridiamap",
-                    "x": 1681,
-                    "y": 683
-                  }
-                ]
-              },
-			  {
-                "name": "Maridia_Missiles_17",
-                "sections": [
-                  {
-                    "name": "Item",
-                    "item_count": 1
-                  }
-                ],
-                "map_locations": [
-				  {
-                    "map": "maridiamap",
                     "x": 1745,
                     "y": 691
                   }
                 ]
               },
 			  {
-                "name": "Maridia_Missiles_18",
+                "name": "Maridia_Missiles_17",
                 "sections": [
                   {
                     "name": "Item",

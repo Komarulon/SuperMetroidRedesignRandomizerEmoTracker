@@ -70,13 +70,6 @@
     "codes": "bomb"
   },
   {
-    "name": "Spring Ball",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/items/springball.png",
-    "codes": "spring"
-  },
-  {
     "name": "High Jump",
     "type": "toggle",
     "loop": "true",
@@ -136,24 +129,18 @@
     "name": "Missile Capacity",
     "type": "consumable",
     "img": "images/items/missile.png",
-    "max_quantity": 255,
-    "increment": 5,
     "codes": "missile"
   },
   {
     "name": "Super Missile Capacity",
     "type": "consumable",
     "img": "images/items/super.png",
-    "max_quantity": 100,
-    "increment": 5,
     "codes": "supermissile,super"
   },
   {
     "name": "Power Bomb Capacity",
     "type": "consumable",
     "img": "images/items/powerbomb.png",
-    "max_quantity": 100,
-    "increment": 5,
     "codes": "powerbomb,pb"
   },
   {

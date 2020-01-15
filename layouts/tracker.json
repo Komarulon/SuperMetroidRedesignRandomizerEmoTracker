@@ -16,8 +16,8 @@
             "rows": [
               [ "ridley",   "bombtorizo",   "charge",     "beamcombo", "morph",  "hijump" ],
               [ "phantoon", "sporespawn",   "ice",        "varia",     "bomb",   "space" ],
-              [ "kraid",    "crocomire",    "wave",       "gravity",   "spring", "speed" ],
-              [ "draygon",  "botwoon",      "spazer",     "grapple",   "screw",  "" ],
+              [ "kraid",    "crocomire",    "wave",       "gravity",   "screw",  "speed" ],
+              [ "draygon",  "botwoon",      "spazer",     "grapple",   "",       "" ],
               [ "",         "goldentorizo", "plasma",     "xray",      "",       "" ]
             ]
           },
