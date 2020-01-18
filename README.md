@@ -24,10 +24,10 @@ Open EmoTracker. In the top right, select the gear. In the menu, this tracker wi
 
 ## Screenshots
 
-![Crateria Screenshot](https://i.imgur.com/rFN5Ney.png)
+![Crateria Screenshot](https://i.imgur.com/mulu3o6.png)
 
-![Brinstar Screenshot](https://i.imgur.com/AvAIfpj.png)
+![Brinstar Screenshot](https://i.imgur.com/KZs28zS.png)
 
-![Maridia Screenshot](https://i.imgur.com/DpelJoA.png)
+![Maridia Screenshot](https://i.imgur.com/cUjWGHv.png)
 
-![Norfair Screenshot](https://i.imgur.com/278NKb8.png)
+![Norfair Screenshot](https://i.imgur.com/1mqaqnN.png)
