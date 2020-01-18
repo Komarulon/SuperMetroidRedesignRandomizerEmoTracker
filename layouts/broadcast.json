@@ -15,11 +15,11 @@
             "h_alignment": "left",
             "item_size": 48,
             "rows": [
-              [ "ridley",   "charge", "varia",   "morph" ],
-              [ "phantoon", "ice",    "gravity", "bomb" ],
-              [ "kraid",    "wave",   "hijump",  "spring" ],
-              [ "draygon",  "spazer", "space",   "screw" ],
-              [ "",         "plasma", "speed",   "beamcombo" ]
+              [ "ridley",   "sporespawn",   "charge",     "beamcombo", "morph",  "hijump" ],
+              [ "phantoon", "bombtorizo",   "ice",        "varia",     "bomb",   "space" ],
+              [ "kraid",    "crocomire",    "wave",       "gravity",   "screw",  "speed" ],
+              [ "draygon",  "botwoon",      "spazer",     "grapple",   "",       "" ],
+              [ "",         "goldentorizo", "plasma",     "xray",      "",       "" ]
             ]
           }
         ]

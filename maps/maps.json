@@ -3,25 +3,25 @@
     "name": "crateriamap",
     "location_size": 20,
     "location_border_thickness": 1,
-    "img": "images/maps/crateria.png"
+    "img": "images/maps/crateria_noitems.png"
   },
   {
     "name": "brinstarmap",
     "location_size": 20,
     "location_border_thickness": 1,
-    "img": "images/maps/brinstar.png"
+    "img": "images/maps/brinstar_noitems.png"
   },
   {
     "name": "norfairmap",
     "location_size": 20,
     "location_border_thickness": 1,
-    "img": "images/maps/norfair.png"
+    "img": "images/maps/norfair_noitems.png"
   },
   {
     "name": "maridiamap",
     "location_size": 20,
     "location_border_thickness": 1,
-    "img": "images/maps/maridia.png"
+    "img": "images/maps/maridia_noitems.png"
   },
     {
     "name": "fullmap",

@@ -14,11 +14,46 @@
             "item_margin": "6,1",
             "h_alignment": "left",
             "rows": [
-              [ "ridley",   "bombtorizo",   "charge",     "beamcombo", "morph",  "hijump" ],
-              [ "phantoon", "sporespawn",   "ice",        "varia",     "bomb",   "space" ],
-              [ "kraid",    "crocomire",    "wave",       "gravity",   "screw",  "speed" ],
-              [ "draygon",  "botwoon",      "spazer",     "grapple",   "",       "" ],
-              [ "",         "goldentorizo", "plasma",     "xray",      "",       "" ]
+              [
+                "ridley",
+                "sporespawn",
+                "charge",
+                "beamcombo",
+                "morph",
+                "hijump"
+              ],
+              [
+                "phantoon",
+                "bombtorizo",
+                "ice",
+                "varia",
+                "bomb",
+                "space"
+              ],
+              [
+                "kraid",
+                "crocomire",
+                "wave",
+                "gravity",
+                "screw",
+                "speed"
+              ],
+              [
+                "draygon",
+                "botwoon",
+                "spazer",
+                "grapple",
+                "",
+                ""
+              ],
+              [
+                "",
+                "goldentorizo",
+                "plasma",
+                "xray",
+                "",
+                ""
+              ]
             ]
           },
           {
@@ -33,7 +68,11 @@
                 "item_margin": "2,0",
                 "h_alignment": "center",
                 "rows": [
-                  [ "missile", "supermissile", "powerbomb" ]
+                  [
+                    "missile",
+                    "supermissile",
+                    "powerbomb"
+                  ]
                 ]
               },
               {
@@ -42,7 +81,10 @@
                 "item_margin": "2,0",
                 "h_alignment": "center",
                 "rows": [
-                  [ "etank", "reservetank" ]
+                  [
+                    "etank",
+                    "reservetank"
+                  ]
                 ]
               },
               {
@@ -57,7 +99,6 @@
       }
     ]
   },
-
   "tracker_capture_item": {
     "type": "container",
     "content": {
@@ -104,52 +145,147 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Crateria",
-              "icon": "images/icon_starship.png",
+              "title": "Scrolling",
               "content": {
-                "type": "map",
-                "maps": [
-                  "crateriamap"
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Crateria",
+                    "icon": "images/icon_starship.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "crateriamap"
+                          ],
+                          min_height: 832
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Brinstar",
+                    "icon": "images/icon_etecoon.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "brinstarmap"
+                          ],
+                          min_height: 580
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Maridia",
+                    "icon": "images/icon_minidraygon.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "maridiamap"
+                          ],
+                          min_height: 999
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Norfair",
+                    "icon": "images/icon_norfair_statue.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "norfairmap"
+                          ],
+                          min_height: 961
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Full Map",
+                    "icon": "images/icon_zebes.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "fullmap"
+                          ]
+                        }
+                      ]
+                    }
+                  }
                 ]
               }
             },
             {
-              "title": "Brinstar",
-              "icon": "images/icon_etecoon.png",
+              "title": "No Scroll",
               "content": {
-                "type": "map",
-                "maps": [
-                  "brinstarmap"
-                ]
-              }
-            },
-            {
-              "title": "Norfair",
-              "icon": "images/icon_norfair_statue.png",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "norfairmap"
-                ]
-              }
-            },
-            {
-              "title": "Maridia",
-              "icon": "images/icon_minidraygon.png",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "maridiamap"
-                ]
-              }
-            },
-			{
-              "title": "Full Map",
-              "icon": "images/icon_zebes.png",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "fullmap"
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Crateria",
+                    "icon": "images/icon_starship.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "crateriamap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Brinstar",
+                    "icon": "images/icon_etecoon.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "brinstarmap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Maridia",
+                    "icon": "images/icon_minidraygon.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "maridiamap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Norfair",
+                    "icon": "images/icon_norfair_statue.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "norfairmap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Full Map",
+                    "icon": "images/icon_zebes.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "fullmap"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -199,52 +335,147 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Crateria",
-              "icon": "images/icon_starship.png",
+              "title": "Scrolling",
               "content": {
-                "type": "map",
-                "maps": [
-                  "crateriamap"
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Crateria",
+                    "icon": "images/icon_starship.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "crateriamap"
+                          ],
+                          min_height: 832
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Brinstar",
+                    "icon": "images/icon_etecoon.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "brinstarmap"
+                          ],
+                          min_height: 580
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Maridia",
+                    "icon": "images/icon_minidraygon.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "maridiamap"
+                          ],
+                          min_height: 999
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Norfair",
+                    "icon": "images/icon_norfair_statue.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "norfairmap"
+                          ],
+                          min_height: 961
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Full Map",
+                    "icon": "images/icon_zebes.png",
+                    "content": {
+                      "type": "scroll",
+                      "content": [
+                        {
+                          "type": "map",
+                          "maps": [
+                            "fullmap"
+                          ]
+                        }
+                      ]
+                    }
+                  }
                 ]
               }
             },
             {
-              "title": "Brinstar",
-              "icon": "images/icon_etecoon.png",
+              "title": "No Scroll",
               "content": {
-                "type": "map",
-                "maps": [
-                  "brinstarmap"
-                ]
-              }
-            },
-            {
-              "title": "Maridia",
-              "icon": "images/icon_minidraygon.png",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "maridiamap"
-                ]
-              }
-            },
-			{
-              "title": "Norfair",
-              "icon": "images/icon_norfair_statue.png",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "norfairmap"
-                ]
-              }
-            },
-			{
-              "title": "Full Map",
-              "icon": "images/icon_zebes.png",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "fullmap"
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Crateria",
+                    "icon": "images/icon_starship.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "crateriamap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Brinstar",
+                    "icon": "images/icon_etecoon.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "brinstarmap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Maridia",
+                    "icon": "images/icon_minidraygon.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "maridiamap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Norfair",
+                    "icon": "images/icon_norfair_statue.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "norfairmap"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Full Map",
+                    "icon": "images/icon_zebes.png",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "fullmap"
+                      ]
+                    }
+                  }
                 ]
               }
             }
