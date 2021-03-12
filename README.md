@@ -1,7 +1,7 @@
 # Super Metroid: Redesign Randomizer EmoTracker
 EmoTracker pack for Super Metroid Redesign: Randomizers
 
-Currently there is no official Redesign Randomizer, but if you go to the discord linked at https://www.twitch.tv/azder , azder will be able to create them for you.
+Super Metroid Redesign Randomizer: https://github.com/Komarulon/smrandomizer
 
 Get EmoTracker here: https://emotracker.net/
 
@@ -21,6 +21,10 @@ so you'll have a folder:
 C:\Users\[Your Username]\Documents\EmoTracker\packs\smredesignrando
 
 Open EmoTracker. In the top right, select the gear. In the menu, this tracker will be listed under Other. 
+
+## Issues/Updates
+
+Feel free to make a github issue if there's an issue with the map, the map is from https://www.metroid-database.com/old_site/sm/hacks/redesign_map.png but has been updated, as there is at least one error in that map. 
 
 ## Screenshots
 
