@@ -4,8 +4,8 @@
     {
       "name": "Super Metroid Redesign Randomizer Map Tracker",
       "author": "Komaru",
-      "game_name": "Super Metroid Redesign Randomizer",
-      "version": "1.0.0.3",
+      "game_name": "Super Metroid",
+      "version": "1.0.0.4",
       "flags": [ "map" ],
       "required_app_version": "2.3.0.0",
       "uid": "smredesignrando",
