@@ -13,6 +13,10 @@ I recommend pressing F11 (the "Toggle all locations visible" hotkey) in emotrack
 
 ## Installation
 
+Get it on emotracker! No crazy install!
+
+But if you want to do the crazy install:
+
 Get the latest release on the releases page: https://github.com/Komarulon/SuperMetroidRedesignRandomizerEmoTracker/releases
 
 Download the zip file, and extract it into:
