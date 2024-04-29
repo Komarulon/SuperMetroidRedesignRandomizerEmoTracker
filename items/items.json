@@ -112,6 +112,15 @@
     "codes": "screw"
   },
   {
+    "name": "Guardians",
+    "type": "consumable",
+    "img": "images/guardian.png",
+	"min_quantity": 0,
+    "max_quantity": 12,
+	"display_as_fraction_of_max": true,
+    "codes": "guardian"
+  },
+  {
     "name": "Etanks",
     "type": "consumable",
     "img": "images/items/etank.png",

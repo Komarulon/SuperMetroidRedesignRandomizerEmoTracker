@@ -19,7 +19,7 @@
               [ "phantoon", "bombtorizo",   "ice",        "varia",     "bomb",   "space" ],
               [ "kraid",    "crocomire",    "wave",       "gravity",   "screw",  "speed" ],
               [ "draygon",  "botwoon",      "spazer",     "grapple",   "",       "" ],
-              [ "",         "goldentorizo", "plasma",     "xray",      "",       "" ]
+              [ "guardian", "goldentorizo", "plasma",     "xray",      "",       "" ]
             ]
           }
         ]
